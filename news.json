@@ -1,15 +1,17 @@
-بالطبع! إليك النص المعدل الذي يمكنك استخدامه في عقدة "Message a model":
+ \n بالتأكيد! إليك النص المعدل الذي يمكنك استخدامه في عقدة **Message a model**:
 
-```
-أنت محلل أخبار محترف. حلل كل الأخبار الموجودة في هذه القائمة: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object].
+---
+
+"أنت محلل أخبار محترف. حلل كل الأخبار الموجودة في هذه القائمة: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
 
 المطلوب:
 
 لكل خبر، اكتب سطراً واحداً فقط بالعربية.
 
-التنسيق: [التوقيت: 2026-03-02 02:52] - الخبر: (الملخص) - الحالة: (إيجابي 🟢/سلبي 🔴).
+التنسيق: [التوقيت: YYYY-MM-DD HH:MM] - الخبر: (الملخص) - الحالة: (إيجابي 🟢/سلبي 🔴).
 
-لا تكتب مقدمات، أريد الأسطر فقط تحت بعضها.
-```
+لا تكتب مقدمات، أريد الأسطر فقط تحت بعضها."
 
-تأكد من أن تمرر الأخبار بشكل صحيح في القائمة حتى يتمكن الذكاء الاصطناعي من تحليلها بشكل دقيق.
+---
+
+تأكد من ضبط **YYYY-MM-DD HH:MM** بالتوقيت الصحيح لكل خبر، وبدّل [object Object] بالبيانات الفعلية التي تريد تحليلها. بالتوفيق!
